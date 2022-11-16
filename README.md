@@ -10,6 +10,8 @@ Then we get variable doc and store upvotes of each reddit threat and store it in
 
 Then I created an for loop which set headline text to headline buttons and score to votes buttons.
 
+All reddit threads are from the "Hot" sections
+
 
 
 
